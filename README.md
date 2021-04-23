@@ -3,7 +3,7 @@ Simon game created using HTML, CSS, JavaScript, jQuery
 
 ![simon game gif](https://github.com/SamuelAlmanza/simon.js/blob/main/zoom_0.gif "simon.js")
 
-<h2>Enjoy the classic Simon game</h2>
+<h2>Based on the classic Simon game</h2>
 
 <h3>Rules:</h3> 
 
